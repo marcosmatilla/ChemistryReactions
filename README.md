@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b9641d582ad778ae88989639f9e24478f61fa5a8cb5aefdb81422800048aaba6
-size 259
+# Chemistry Reactions
+
+_Proyecto individual para la asignatura Realidad Aumentada y Accesibilidad 2020-2021._
+
+_Universidad de Oviedo.
+
+Aplicación realizada en Unity mediante el uso del kit de desarrollo orientado a la realidad aumentada, Vuforia. 
+
