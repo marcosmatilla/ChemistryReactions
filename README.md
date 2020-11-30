@@ -1,3 +1,22 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ed4e787f34117278853c0e2902f49cae4950c413809b282968ee1bee7baff7b5
-size 260
+# Chemistry Reactions
+
+### 📢 AR experience 📢 
+
+## 🛠️ Built With
+
+* <a href="https://unity.com/es">Unity</a>
+* <a href="https://arvr.google.com">Google VR</a> 
+* <a href="https://developer.vuforia.com">Vuforia Augmented Reality SDK</a>
+* Android SDK
+* A lot of online tutorials and free time. 
+
+## Author ✒️
+<a href="https://github.com/marcosmatilla/ChemistryReactions/graphs/contributors">
+<img src="https://contributors-img.web.app/image?repo=marcosmatilla/ChemistryReactions" />
+</a>
+
+-------------------------------------------------------------------
+_Universidad de Oviedo - Ingeniería Informática del Software_
+
+_#RAAUniovi2020_
+
